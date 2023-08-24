@@ -17,3 +17,6 @@ The 'Head Start' series is typically made for people who have the briefest expos
 In addition to these exercises, I will be running open sessions on teams where you can raise topics you do not understand. I will then demonstrate and go through concepts that you are struggling with. I suggest you don't have your IDEs open in these sessions and try and follow along as I code; rather, you should make notes or use the code I put together to try these examples yourself. We will record some of the topics covered in these sessions on this page.
 
 You can also raise questions on the **WhatsApp group,** this will be a good way to learn
+
+## Sessions
+- [Session 1: Topic (11/09)] (https://github.com/jxh096py/learningpython3/blob/main/sessionone.md)
