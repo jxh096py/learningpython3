@@ -20,4 +20,7 @@ You can also raise questions on the **WhatsApp group,** this will be a good way 
 
 ## Sessions
 - [Session 1: Topic (11/09)](https://github.com/jxh096py/learningpython3/blob/main/session1.md)
+
+## Exercises
+In this section you will find the exercises set, when they were set, and (if applicable) when they are due. If you are struggling, use the WhatsApp group so we can all help one another. Once you are familiar with Github / git, I expect these to be hosted out of git.
 - [Exercise 1: Topic (24/08](https://github.com/jxh096py/learningpython3/blob/main/exercise1.md)
