@@ -19,4 +19,5 @@ In addition to these exercises, I will be running open sessions on teams where y
 You can also raise questions on the **WhatsApp group,** this will be a good way to learn
 
 ## Sessions
-- [Session 1: Topic (11/09)](https://github.com/jxh096py/learningpython3/blob/main/sessionone.md)
+- [Session 1: Topic (11/09)](https://github.com/jxh096py/learningpython3/blob/main/session1.md)
+- [Exercise 1: Topic (24/08](https://github.com/jxh096py/learningpython3/blob/main/exercise1.md)
